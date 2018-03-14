@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Trueque
+        psr4_prefix: Trueque
+        src_path: app
